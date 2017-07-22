@@ -1,4 +1,5 @@
 module AnimatedBackground
+  VERSION = '1.0'
   FILENAME_FLAG = 'animated'.freeze
 end
 
